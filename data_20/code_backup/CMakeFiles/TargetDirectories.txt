@@ -1,0 +1,3 @@
+/home/hxs/code_backup/CMakeFiles/rebuild_cache.dir
+/home/hxs/code_backup/CMakeFiles/edit_cache.dir
+/home/hxs/code_backup/CMakeFiles/30CM.dir

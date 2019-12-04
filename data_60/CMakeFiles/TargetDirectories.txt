@@ -1,0 +1,3 @@
+/home/hxs/data_60/CMakeFiles/edit_cache.dir
+/home/hxs/data_60/CMakeFiles/rebuild_cache.dir
+/home/hxs/data_60/CMakeFiles/60CM.dir
